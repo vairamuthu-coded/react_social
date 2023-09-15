@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:22 PM",
+      "body": "Made a Video Tesla  01 Results"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "Augest 01, 2021 11:17:22 PM",
+      "body": "Made a Video Tesla  01 Results"
+    },
+    {
+      "id": 4,
+      "title": "hi iam vairamuthu",
+      "datetime": "September 13, 2023 6:18:43 PM",
+      "body": "hi"
+    }
+  ]
+}

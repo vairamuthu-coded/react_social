@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My Second Pos",
+      "datetime": "September 14, 2023 10:48:33 AM",
+      "body": "Made a "
+    },
+    {
+      "id": 3,
+      "title": "hi iam vairamuthu",
+      "datetime": "September 14, 2023 11:09:37 AM",
+      "body": "fdfdfdf"
+    },
+    {
+      "id": 4,
+      "title": "hi  abi",
+      "datetime": "September 14, 2023 11:10:07 AM",
+      "body": "how are you"
+    }
+  ]
+}
